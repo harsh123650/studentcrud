@@ -32,6 +32,11 @@ A full-stack **Student Data** that allows users to **manage student records** wi
 - 🗄️ PostgreSQL
 
 ---
+![Home Page](Login.png)
+![Home Page](Home.png)
+![Home Page](crud.png)
+![Home Page](Form.png)
+![Home Page](Search.png)
 
 ## 📂 Project Structure
 
