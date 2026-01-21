@@ -1,4 +1,4 @@
-# 🎓 Student Management System
+# 🎓 Student Records
 
 A full-stack **Student Data** that allows users to **manage student records** with complete **CRUD operations** using a modern and responsive UI.
 
